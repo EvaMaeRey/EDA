@@ -797,6 +797,14 @@
         <name>stgPreferredPhoneSelection</name>
     </customLabels>
     <customLabels>
+        <label><!-- stgReciprocalMethodListSetting --></label>
+        <name>stgReciprocalMethodListSetting</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- stgReciprocalMethodValueInversion --></label>
+        <name>stgReciprocalMethodValueInversion</name>
+    </customLabels>
+    <customLabels>
         <label>Run Cleanup</label>
         <name>stgRunCleanUp</name>
     </customLabels>
